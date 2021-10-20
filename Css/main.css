@@ -166,7 +166,8 @@ body {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 5px 29px;
+  padding: 5px 28px;
+  border-right: 1px solid var(--GREEN);
   background-color: var(--GREEN2);
 }
 .nav .profile-details .profile-content {
